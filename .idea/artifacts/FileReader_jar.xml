@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FileReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileReader_jar</output-path>
+    <root id="archive" name="FileReader.jar">
+      <element id="module-output" name="FileReader" />
+    </root>
+  </artifact>
+</component>
